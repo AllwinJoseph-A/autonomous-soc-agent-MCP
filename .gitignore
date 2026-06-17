@@ -1,0 +1,14 @@
+# Node & React
+node_modules/
+dist/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.db
+
+# Local Database / Generated Files
+backend/tickets/*.json
+!backend/tickets/.gitkeep
